@@ -1,2 +1,2 @@
-This is branch master!
+This is new branch!
 
